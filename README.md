@@ -1,2 +1,2 @@
 # Foodie
-Strapi + Next.js project
+Recipe pet project using Strapi CMS + Next.js 
