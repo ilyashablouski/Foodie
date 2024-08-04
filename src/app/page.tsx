@@ -11,6 +11,7 @@ export default function Home() {
         </p>
         <div>
           <a
+            /* eslint-disable-next-line max-len */
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
             target="_blank"
             rel="noopener noreferrer"
@@ -41,6 +42,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
+          /* eslint-disable-next-line max-len */
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
           target="_blank"
@@ -53,6 +55,7 @@ export default function Home() {
         </a>
 
         <a
+          /* eslint-disable-next-line max-len */
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
           target="_blank"
@@ -65,6 +68,7 @@ export default function Home() {
         </a>
 
         <a
+          /* eslint-disable-next-line max-len */
           href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
           target="_blank"
@@ -77,6 +81,7 @@ export default function Home() {
         </a>
 
         <a
+          /* eslint-disable-next-line max-len */
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
           target="_blank"
