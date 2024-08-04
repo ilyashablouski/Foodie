@@ -1,4 +1,4 @@
-import {defineField, defineType} from 'sanity'
+import { defineField, defineType } from 'sanity';
 
 export const authorType = defineType({
   name: 'author',
@@ -28,8 +28,8 @@ export const authorType = defineType({
           name: 'alt',
           type: 'string',
           title: 'Alternative Text',
-        }
-      ]
+        },
+      ],
     }),
     defineField({
       name: 'bio',
@@ -37,7 +37,7 @@ export const authorType = defineType({
       of: [
         {
           type: 'block',
-          styles: [{title: 'Normal', value: 'normal'}],
+          styles: [{ title: 'Normal', value: 'normal' }],
           lists: [],
         },
       ],
@@ -49,4 +49,4 @@ export const authorType = defineType({
       media: 'image',
     },
   },
-})
+});

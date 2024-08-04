@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# libs
+/lib
+
+# testing
+
+# production
+/.next
+
+# misc
+.env
+
+yarn.lock
