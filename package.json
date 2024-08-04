@@ -9,20 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sanity/client": "^6.20.1",
-    "@sanity/icons": "^3.0.0",
-    "@sanity/image-url": "1",
-    "@sanity/ui": "^2.0.11",
-    "@sanity/vision": "3",
     "next": "14.2.5",
-    "next-sanity": "9.4.3",
     "react": "^18",
-    "react-dom": "^18",
-    "sanity": "^3.37.1",
-    "styled-components": "^6.1"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "@sanity/types": "^3.37.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
