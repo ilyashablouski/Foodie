@@ -10,6 +10,7 @@
 /.next
 
 # misc
+.DS_Store
 .env
 
 yarn.lock
